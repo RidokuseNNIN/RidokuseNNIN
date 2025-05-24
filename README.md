@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mateo
+# 👋 Hi, I’m Mateusz
 
 - 🧱 I am a Strucutral engineer/Constrution Manager who enjoys programming in my spare time, in c++ .
 - 👀 I’m interested in combining engineering logic with modern programming tools.
