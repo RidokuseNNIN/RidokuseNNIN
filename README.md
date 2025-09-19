@@ -7,6 +7,6 @@
 - 🛠 My main tools: C++,CMake, Qt, Visual Studio, GitHub, CLI ,SFML,OpenGL,Unreal Engine 5.0
 - 💞️ I’m looking to collaborate on open-source civil engineering tools and educational resources.
 - 📫 How to reach me: [GitHub](https://github.com/RidokuseNNIN)
-- ⚡ Fun fact: I use code to do what used to take hours with a calculator 😄
+- ⚡ Fun
 
 > “I believe engineering knowledge + software = smarter building and faster workflows.”
